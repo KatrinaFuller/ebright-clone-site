@@ -1,0 +1,5 @@
+.image-row{
+  background-image: url(top-image.png);
+  min-height: 41vh;
+  background-size: contain;
+}
