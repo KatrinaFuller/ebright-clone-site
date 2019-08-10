@@ -3,3 +3,8 @@
   min-height: 41vh;
   background-size: contain;
 }
+
+.little-red-row{
+  background-color: #e0301e;
+  min-height: 14vh;
+}
